@@ -1,4 +1,6 @@
 tomates
 jambon
 champignons
-...
+ananas
+caramel
+anchois
