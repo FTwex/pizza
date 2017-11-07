@@ -4,3 +4,4 @@ champignons
 ananas
 caramel
 anchois
+miel
